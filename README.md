@@ -26,12 +26,13 @@ Each book has an ID, title, author, and status. The status shows whether the boo
 ## Project Structure
 
 ```text
-Library-System/
+Library-Management-System/
 │
-├── Book.h
+├── .gitignore
 ├── Book.cpp
-├── Library.h
+├── Book.h
 ├── Library.cpp
+├── Library.h
 ├── main.cpp
 └── README.md
 ```
